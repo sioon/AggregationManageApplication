@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="barcode_type">
+        <item>SSCC</item>
+        <item>GS1</item>
+    </string-array>
+</resources>
